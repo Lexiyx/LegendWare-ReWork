@@ -3,3 +3,5 @@ Normally this was working, but it doesnt work now because the update came to CSG
 In the Release section I will leave the .dll file Packaged with Themida.
 
 You need to add FreeType Librarys.
+
+Custom Sounds Wont Work.
